@@ -34,3 +34,8 @@ efferentSpaceField({{a set of nodes with their subgraphs of direction/magnitude 
 4. We can dispense with setting timesteps to constants by updating only when some weighted inputs are high enough to cross a threshold: something like a leaky accumulator. 
 
 5. Lower ranking candidates are shifted toward lower positions on the field by the matching updated preferences of the candidate for their voters as part of creating the metric for the field. 
+
+
+\section{Thoughts}
+
+Still many vagaries.
