@@ -1,7 +1,8 @@
 # VoteCoin   
 ## Public repository of VoteCoin.com  
+Solving the paradoxical problem of vote integrity and vote anonymity using a probabilistic vote chain.
 ## Currently a mix of Matlab, latex and markdown  
-## keywords, tags: differential privacy, effeerence copy, neural fields  
+## keywords, tags: differential privacy, efferrence copy, neural fields  
 ### related work:   
 https://en.wikipedia.org/wiki/Differential_privacy , https://www.reddit.com/r/votecoin/ , https://www.google.ca/search?q=paxos+agreement&oq=paxos+agreem&aqs=chrome.0.0j69i57.3047j0j1&sourceid=chrome&ie=UTF-8 , https://groups.google.com/forum/#!topic/sci.crypt/uLbeZiCDcnM%5B1-25%5D
 
