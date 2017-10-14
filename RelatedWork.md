@@ -11,3 +11,4 @@
 6. http://www.goodmath.org/blog/2015/01/30/paxos-a-really-beautiful-protocol-for-distributed-consensus/  
 7. https://groups.google.com/forum/#!topic/sci.crypt/uLbeZiCDcnM%5B1-25%5D
 8. https://www.youtube.com/watch?v=7c0CoXFApnM - Telesecope time without tears [Numberphile]  
+        - By having the entire community rank eachother's telescope time proposals, the knowledge representation problem is more tractable, i.e. broad tuned.
