@@ -9,9 +9,9 @@
 4. https://en.wikipedia.org/wiki/Differential_privacy
 5. https://www.reddit.com/r/votecoin/  
 6. http://www.goodmath.org/blog/2015/01/30/paxos-a-really-beautiful-protocol-for-distributed-consensus/  
-7. https://groups.google.com/forum/#!topic/sci.crypt/uLbeZiCDcnM%5B1-25%5D
+7. https://groups.google.com/forum/#!topic/sci.crypt/uLbeZiCDcnM%5B1-25%5D  
 8. https://www.youtube.com/watch?v=7c0CoXFApnM - Telesecope time without tears [Numberphile]  
-        - By having the entire community rank samples of eachother's telescope time proposals, the knowledge representation problem is more tractable, i.e. broad tuned is Borda counting, the sum of the candidate mixtures yields the priority of the schedule.
-        - Effectively a differential equation that reweights your vote based on agreement with everyone else.  
+        - By having the entire community rank samples of eachother's telescope time proposals, the knowledge representation problem is more tractable, i.e. broad tuned is Borda counting, the sum of the candidate mixtures yields the priority of the schedule.  
+        - Effectively a differential equation that reweights your vote based on agreement with everyone else. Incentivized to be honest about your self-evaluation.    
         
         
