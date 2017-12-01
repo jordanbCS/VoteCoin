@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
  https://www.youtube.com/watch?v=AhVR7gFMKNg  
  
+ https://www.youtube.com/watch?v=7UqV3eN9Pa8
+ 
  <Ridealongs: Neural voting>
 
 ## Tools
