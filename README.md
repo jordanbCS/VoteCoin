@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
 
  ### Voting systems
  
- https://www.youtube.com/watch?v=AhVR7gFMKNg  
+ Google votes: https://www.youtube.com/watch?v=AhVR7gFMKNg and https://www.youtube.com/watch?v=7UqV3eN9Pa8  
+   - I am confused as to where the code is located? The video says go/googlevotes but it could also refer to Google plus polls?
  
  https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjftJL8-PPXAhWM7YMKHVG2C-0QFggpMAA&url=http%3A%2F%2Fwww.tdcommons.org%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1092%26context%3Ddpubs_series&usg=AOvVaw3GPHINuek-6xYEVcfemIkR  
  
