@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
  https://www.youtube.com/watch?v=7UqV3eN9Pa8
  
+ https://www.coindesk.com/blockchain-voting-code-made-open-source-moscows-government/  
+  - https://github.com/moscow-technologies/ag-blockchain - in Russian unfortunately :/  
+  
+ 
  <Ridealongs: Neural voting>  
  
 
