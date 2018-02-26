@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
 
  ### Voting systems
  
+ Votangle on IOTA - https://twitter.com/pryszkie/status/966320527257296898  
+ 
  Google votes: https://www.youtube.com/watch?v=AhVR7gFMKNg and https://www.youtube.com/watch?v=7UqV3eN9Pa8  
    - I am confused as to where the code is located? The video says go/googlevotes but it could also refer to Google plus polls?
  
