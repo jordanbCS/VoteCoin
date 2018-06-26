@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
  ### EOS  
  - https://github.com/EOSIO/eos  
+  - some controversy https://www.reddit.com/r/CryptoCurrency/comments/8ty13c/we_have_suffered_a_private_affair_block_producer/e1b6bga/ but I think Cryptoverse summarized the issue as a growing pain: https://www.youtube.com/watch?v=TU6xeFSMgpI  
  
  ### Votangle on IOTA  
  - https://twitter.com/pryszkie/status/966320527257296898  
