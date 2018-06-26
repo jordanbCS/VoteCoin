@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
 
  ### Voting systems
  
+ EOS - https://github.com/EOSIO/eos  
+ 
  Votangle on IOTA - https://twitter.com/pryszkie/status/966320527257296898  
  
  Google votes: https://www.youtube.com/watch?v=AhVR7gFMKNg and https://www.youtube.com/watch?v=7UqV3eN9Pa8  
