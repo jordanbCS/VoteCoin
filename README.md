@@ -29,6 +29,12 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
   
  ### Other  
  
+ - Kiayias, A., Zacharias, T., & Zhang, B. (2017). An Efficient E2E Verifiable E-voting System without Setup Assumptions. IEEE Security and Privacy, 15(3), 14–23. http://doi.org/10.1109/MSP.2017.71  
+ 
+ - NXT blockchain with interface for polling up to 100 token holders - https://nxtplatform.org/overview-main-features/  
+ 
+ - PublicVotes - http://schiener.me/2015/voting-on-ethereum-analysis/  
+ 
  - Votem - a company claiming to have solved core problems https://votem.com/blockchain-voting/  
  
  - https://www.youtube.com/watch?v=7UqV3eN9Pa8
