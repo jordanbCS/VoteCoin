@@ -1,15 +1,14 @@
 # Public repository of VoteCoin.com  
    
+
+
+## Background  
+
 Solving the paradoxical problem of vote integrity and vote anonymity using a probabilistic vote chain.
 
 A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
 
-## Background  
-
-"Scaling Blockchains - Computerphile" does a good job of discussing existing techniques for blockchain voting:  
-https://www.youtube.com/watch?v=4CdO0olVfAA  
-
- ## Voting systems
+## Voting systems
  
  ### EOS  
  - https://github.com/EOSIO/eos  
@@ -28,6 +27,12 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
 
   
  ### Other  
+ 
+ - Enigma secret voting protocol: https://blog.enigma.co/dark-daos-and-the-complexity-of-secret-voting-fc3b4fe4d666  
+ 
+ - "Scaling Blockchains - Computerphile" does a good job of discussing existing techniques for blockchain voting:  
+https://www.youtube.com/watch?v=4CdO0olVfAA  
+
  
  - Kiayias, A., Zacharias, T., & Zhang, B. (2017). An Efficient E2E Verifiable E-voting System without Setup Assumptions. IEEE Security and Privacy, 15(3), 14–23. http://doi.org/10.1109/MSP.2017.71  
  
