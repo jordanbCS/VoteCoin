@@ -15,6 +15,7 @@ A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
   - some controversy https://www.reddit.com/r/CryptoCurrency/comments/8ty13c/we_have_suffered_a_private_affair_block_producer/e1b6bga/ but I think Cryptoverse summarized the issue as a growing pain: https://www.youtube.com/watch?v=TU6xeFSMgpI  
  
  ### Voting on IOTA  
+ - https://medium.com/@samuel.rufinatscha/e-voting-on-the-tangle-e293d13552a1  
  - https://blog.iota.org/announcement-iota-as-backbone-in-e-voting-research-18f13d0edbd4  
  - https://twitter.com/pryszkie/status/966320527257296898  
  
