@@ -11,6 +11,7 @@ A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
 ## Voting systems
  
  ### EOS  
+ - "Follow my vote" is attempting to do a mock US presidential election with EOS. The identity verification element doesn't seem to be much of an advancement unfortunately: https://followmyvote.com/blockchain-voting-the-end-to-end-process/  
  - https://github.com/EOSIO/eos  
   - some controversy https://www.reddit.com/r/CryptoCurrency/comments/8ty13c/we_have_suffered_a_private_affair_block_producer/e1b6bga/ but I think Cryptoverse summarized the issue as a growing pain: https://www.youtube.com/watch?v=TU6xeFSMgpI  
  
