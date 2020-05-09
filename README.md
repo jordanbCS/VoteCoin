@@ -30,6 +30,8 @@ A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
   
  ### Other  
  
+  - https://theblockchainsocialist.com/why-the-left-should-care-about-blockchain-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth/  
+ 
  - Enigma secret voting protocol: https://blog.enigma.co/dark-daos-and-the-complexity-of-secret-voting-fc3b4fe4d666  
  
  - "Scaling Blockchains - Computerphile" does a good job of discussing existing techniques for blockchain voting:  
