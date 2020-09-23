@@ -30,6 +30,8 @@ A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
   
  ### Other  
  
+  - https://www.reddit.com/r/technology/comments/iwo6nc/us_postal_service_files_a_patent_for_voting/  
+ 
   - https://theblockchainsocialist.com/why-the-left-should-care-about-blockchain-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth/  
  
  - Enigma secret voting protocol: https://blog.enigma.co/dark-daos-and-the-complexity-of-secret-voting-fc3b4fe4d666  
