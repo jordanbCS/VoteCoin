@@ -1,12 +1,15 @@
 # Public repository of VoteCoin.com  
    
+## Votecoin.com background  
 
+Notes on solving the paradoxical problem of vote integrity and vote anonymity using a probabilistic vote chain.
 
-## Background  
+Further reading about this site: http://docs.braincoin.org
 
-Solving the paradoxical problem of vote integrity and vote anonymity using a probabilistic vote chain.
+## Related papers  
 
-A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
+ - No comment on this yet, but it looks like a Vitalik Buterin could be the right person to figure everything out for us: "Blockchain voting is overrated among uninformed people but underrated among informed people" https://vitalik.ca/general/2021/05/25/voting2.html  
+
 
 ## Voting systems
  
@@ -27,7 +30,6 @@ A part of the BrainCoin.org crypto currency ecosystem: http://docs.braincoin.org
  https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjftJL8-PPXAhWM7YMKHVG2C-0QFggpMAA&url=http%3A%2F%2Fwww.tdcommons.org%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1092%26context%3Ddpubs_series&usg=AOvVaw3GPHINuek-6xYEVcfemIkR  
  
 
-  
  ### Other  
  
   - https://www.reddit.com/r/technology/comments/iwo6nc/us_postal_service_files_a_patent_for_voting/  
@@ -56,14 +58,12 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
  ## Ridealongs voting series  
  
- Neural voting machines    
- Ballot Maps  
- MMP vote splits  
- Self-voting circuits  
-
-## Tools
-
-1. https://github.com/llSourcell/Your_First_Decentralized_Application  explained in https://www.youtube.com/watch?v=gSQXq2_j-mw
+ ### TBD  
+  - Differential privacy  
+  - Neural voting machines    
+  - Ballot Maps  
+  - MMP vote splits  
+  - Self-voting circuits  
 
 
 
