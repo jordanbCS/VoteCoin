@@ -13,6 +13,9 @@ Further reading about this site: http://docs.braincoin.org
 
 ## Voting systems
  
+ ### Nano  
+  - "Nano (cryptocurrency) live transaction voting visualization" -  https://www.reddit.com/r/dataisbeautiful/comments/nle3sh/oc_nano_cryptocurrency_live_transaction_voting/gzjkmo6/ u/numso - "Crytpcurrencies need a consensus algorithm. Nano uses an unique way to achieve consensus which is called Open Representative Voting. In this graph, every small block is a transaction being validated by representatives (computers in a distributed network). Individual blocks move higher up on the graph towards a constant quorum. When they reach the top, the transaction is considered valid and confirmed. Each representative holds a variable amount of vote weight so the blocks must reach the quorum by collecting votes from several different representatives."  
+ 
  ### EOS  
  - "Follow my vote" is attempting to do a mock US presidential election with EOS. The identity verification element doesn't seem to be much of an advancement unfortunately: https://followmyvote.com/blockchain-voting-the-end-to-end-process/  
  - https://github.com/EOSIO/eos  
