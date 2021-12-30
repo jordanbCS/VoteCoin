@@ -4,14 +4,11 @@
 
 Notes on solving the paradoxical problem of vote integrity and vote anonymity using a probabilistic vote chain.
 
+Reddit: https://www.reddit.com/r/votecoin/  
+
 Further reading about this site: http://docs.braincoin.org
 
-## Related papers  
-
- - No comment on this yet, but it looks like a Vitalik Buterin could be the right person to figure everything out for us: "Blockchain voting is overrated among uninformed people but underrated among informed people" https://vitalik.ca/general/2021/05/25/voting2.html  
-
-
-## Voting systems
+## Projects in development  
  
  ### Nano  
  - <a href="https://www.reddit.com/r/dataisbeautiful/comments/nle3sh/oc_nano_cryptocurrency_live_transaction_voting/gzjkmo6/">Nano (cryptocurrency) live transaction voting visualization</a> u/numso - "Crytpcurrencies need a consensus algorithm. Nano uses an unique way to achieve consensus which is called Open Representative Voting. In this graph, every small block is a transaction being validated by representatives (computers in a distributed network). Individual blocks move higher up on the graph towards a constant quorum. When they reach the top, the transaction is considered valid and confirmed. Each representative holds a variable amount of vote weight so the blocks must reach the quorum by collecting votes from several different representatives."  
@@ -59,7 +56,7 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
   - https://github.com/moscow-technologies/ag-blockchain - in Russian unfortunately :/  
   
  
- ### Ridealongs voting series  
+### Ridealongs voting series  
  
 #### Completed  
 
@@ -86,7 +83,10 @@ Richards, W., Sebastian Seung, H., & Pickard, G. (2006). Neural voting machines.
  
  - Kiayias, A., Zacharias, T., & Zhang, B. (2017). An Efficient E2E Verifiable E-voting System without Setup Assumptions. IEEE Security and Privacy, 15(3), 14–23. https://doi.org/10.1109/MSP.2017.71
   
+ - ## Related papers  
 
+ - No comment on this yet, but it looks like a Vitalik Buterin could be the right person to figure everything out for us: "Blockchain voting is overrated among uninformed people but underrated among informed people" https://vitalik.ca/general/2021/05/25/voting2.html  
+  
 
 
 
