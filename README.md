@@ -59,15 +59,34 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
   - https://github.com/moscow-technologies/ag-blockchain - in Russian unfortunately :/  
   
  
- ## Ridealongs voting series  
+ ### Ridealongs voting series  
  
+#### Completed  
+
+[unlisted video]  
+Gschwend, T., & van der Kolk, H. (2006). Split ticket voting in mixed member proportional systems: The hypothetical case of The Netherlands. Acta Politica, 41(2), 163–179. https://doi.org/10.1057/palgrave.ap.5500150  
+
+[unlisted video]  
+Teifel, J. (2008). Self-voting dual-modular-redundancy circuits for single-event-transient mitigation. IEEE Transactions on Nuclear Science, 55(6), 3435–3439. https://doi.org/10.1109/TNS.2008.2005583  
+
+[unlisted video]  
+Richards, W., Sebastian Seung, H., & Pickard, G. (2006). Neural voting machines. Neural Networks, 19(8), 1161–1167. https://doi.org/10.1016/j.neunet.2006.06.006  
+
+
+ #### Incomplete    
  
- ### TBD  
-  - Differential privacy  
-  - Neural voting machines    
-  - Ballot Maps  
-  - MMP vote splits  
-  - Self-voting circuits  
+ - Sandler, D., Derr, K., & Wallach, D. (2008). VoteBox: A Tamper-evident, Verifiable Electronic Voting System. USENIX Security Symposium, 349–364.
+ - Kiayias, A., Zacharias, T., & Zhang, B. (2017). An Efficient E2E Verifiable E-voting System without Setup Assumptions. IEEE Security and Privacy, 15(3), 14–23. https://doi.org/10.1109/MSP.2017.71
+  
+  - Kohli, N., & Laskowski, P. (2018). Epsilon Voting: Mechanism Design for Parameter Selection in Differential Privacy. 2018 IEEE Symposium on Privacy-Aware Computing (PAC), 19–30. https://doi.org/10.1109/PAC.2018.00009
+  
+  - Wood, J., Badawood, D., Dykes, J., & Slingsby, A. (2011). Ballotmaps: Detecting name bias in alphabetically ordered ballot papers. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2384–2391. https://doi.org/10.1109/TVCG.2011.174
+    
+ - Battiti, R., & Colla, A. M. (1994). Democracy in neural nets: Voting schemes for classification. Neural Networks, 7(4), 691–707. https://doi.org/10.1016/0893-6080(94)90046-9
+ 
+ - Kiayias, A., Zacharias, T., & Zhang, B. (2017). An Efficient E2E Verifiable E-voting System without Setup Assumptions. IEEE Security and Privacy, 15(3), 14–23. https://doi.org/10.1109/MSP.2017.71
+  
+
 
 
 
