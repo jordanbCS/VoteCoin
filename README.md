@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
 #### Completed  
 
+"Blockchain voting is overrated among uninformed people but underrated among informed people" - Vitalik Buterin https://www.youtube.com/watch?v=YwhSc5HYgi4  
+
 [unlisted video]  
 Gschwend, T., & van der Kolk, H. (2006). Split ticket voting in mixed member proportional systems: The hypothetical case of The Netherlands. Acta Politica, 41(2), 163–179. https://doi.org/10.1057/palgrave.ap.5500150  
 
