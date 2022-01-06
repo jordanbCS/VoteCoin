@@ -9,8 +9,12 @@ Reddit: https://www.reddit.com/r/votecoin/
 Further reading about this site: http://docs.braincoin.org
 
 ## Projects in development  
+
+### Algorand  
  
- ### Nano  
+According to this Reddit post, apparently what we need are "ZK proofs" - "Voting and Governance: If you want to have privacy in voting you likely want ZK Proofs. If you want to prevent users from being able to retain proof of who they voted for and still prove consistency and correctness of the voting process, you want ZK Proofs." https://www.reddit.com/r/CryptoCurrency/comments/rwwx6x/silvio_micali_founder_of_algorand_won_the_turing/hrgm51k/    
+ 
+### Nano  
  - <a href="https://www.reddit.com/r/dataisbeautiful/comments/nle3sh/oc_nano_cryptocurrency_live_transaction_voting/gzjkmo6/">Nano (cryptocurrency) live transaction voting visualization</a> u/numso - "Crytpcurrencies need a consensus algorithm. Nano uses an unique way to achieve consensus which is called Open Representative Voting. In this graph, every small block is a transaction being validated by representatives (computers in a distributed network). Individual blocks move higher up on the graph towards a constant quorum. When they reach the top, the transaction is considered valid and confirmed. Each representative holds a variable amount of vote weight so the blocks must reach the quorum by collecting votes from several different representatives."  
  
  ### EOS  
