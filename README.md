@@ -66,15 +66,15 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  
 #### Completed  
 
-"Blockchain voting is overrated among uninformed people but underrated among informed people" - Vitalik Buterin https://www.youtube.com/watch?v=YwhSc5HYgi4  
+ - "Blockchain voting is overrated among uninformed people but underrated among informed people" - Vitalik Buterin https://www.youtube.com/watch?v=YwhSc5HYgi4  
 
-[unlisted video]  
+ - [unlisted video]  
 Gschwend, T., & van der Kolk, H. (2006). Split ticket voting in mixed member proportional systems: The hypothetical case of The Netherlands. Acta Politica, 41(2), 163–179. https://doi.org/10.1057/palgrave.ap.5500150  
 
-[unlisted video]  
+ - [unlisted video]  
 Teifel, J. (2008). Self-voting dual-modular-redundancy circuits for single-event-transient mitigation. IEEE Transactions on Nuclear Science, 55(6), 3435–3439. https://doi.org/10.1109/TNS.2008.2005583  
 
-[unlisted video]  
+ - [unlisted video]  
 Richards, W., Sebastian Seung, H., & Pickard, G. (2006). Neural voting machines. Neural Networks, 19(8), 1161–1167. https://doi.org/10.1016/j.neunet.2006.06.006  
 
 
