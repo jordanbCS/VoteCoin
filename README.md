@@ -35,8 +35,7 @@ Further reading about this site: http://docs.braincoin.org
   - <a href="https://www.tdcommons.org/cgi/viewcontent.cgi?article=1092&context=dpubs_series">Google Votes: A Liquid Democracy Experiment on a Corporate Social Network</a>  
 
 ### Other  
-
- - More information about ZK proofs: "Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED" https://www.youtube.com/watch?v=fOGdb1CTu5c    
+ - More information about ZK proofs: "Computer Scientist Explains One Concept in 5 Levels of Difficulty" https://www.youtube.com/watch?v=fOGdb1CTu5c    
  
  - listening to Gredyon Square on the topic: https://www.youtube.com/watch?v=jTeUbxQAF1Y   
 
