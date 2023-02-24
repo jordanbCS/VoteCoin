@@ -64,6 +64,10 @@ https://www.youtube.com/watch?v=4CdO0olVfAA
  - https://www.coindesk.com/blockchain-voting-code-made-open-source-moscows-government/  
   - https://github.com/moscow-technologies/ag-blockchain - in Russian unfortunately :/  
   
+#### Random Reddit threads on the topic  
+
+ - https://www.reddit.com/r/CryptoCurrency/comments/1163kda/heres_an_idea_lets_use_nfts_for_voting_systems/j94wsie/  
+  
  
 ### Ridealongs voting series  
  
