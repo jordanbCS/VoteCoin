@@ -12,7 +12,8 @@ Further reading about this site: http://docs.braincoin.org
 
 ### Algorand  
  
- - According to this Reddit post, apparently what we need are "Zero Knowledge proofs" - "Voting and Governance: If you want to have privacy in voting you likely want ZK Proofs. If you want to prevent users from being able to retain proof of who they voted for and still prove consistency and correctness of the voting process, you want ZK Proofs." https://www.reddit.com/r/CryptoCurrency/comments/rwwx6x/silvio_micali_founder_of_algorand_won_the_turing/hrgm51k/    
+ - According to this Reddit post, apparently what we need are "Zero Knowledge proofs" - "Voting and Governance: If you want to have privacy in voting you likely want ZK Proofs. If you want to prevent users from being able to retain proof of who they voted for and still prove consistency and correctness of the voting process, you want ZK Proofs."    
+[Reddit thread](https://www.reddit.com/r/CryptoCurrency/comments/rwwx6x/silvio_micali_founder_of_algorand_won_the_turing/hrgm51k/)
 
  - [Vote Coin](https://www.vote-coin.com) is also established project in Algorand ecosystem. It defines standard how to ask questions through the blockchain, how to cast votes, how to change votes, how to delegate voting power, how to manage trusted list of accounts and how to calculate the voting results in different scenarios. The vote coin targets DAOs decision making process to be onchain, fully auditable and trustworthy. Vote Coin DAO token which manages standard, and list of auditing companies, is listed on [TinyMan](https://tinychart.org/asset/452399768).
 
